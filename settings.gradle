@@ -1,0 +1,2 @@
+include ':app', ':pepper'
+rootProject.name='DDP Android SDK'
